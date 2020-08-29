@@ -16,3 +16,10 @@
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
 
+### Day 2: August 29, 2020
+
+**Today's Progress**: Trying to work on a different issue, to call getters based on column names of a table
+
+**Thoughts:** Was not able to find a proper solution. Tried a few approaches using reflection, which didn't work
+
+**Link to work:** NONE
