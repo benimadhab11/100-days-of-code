@@ -23,3 +23,12 @@
 **Thoughts:** Was not able to find a proper solution. Tried a few approaches using reflection, which didn't work
 
 **Link to work:** NONE
+
+
+### Day 3: August 29, 2020
+
+**Today's Progress**: Continued with Infoweeb. Figured out how to get field values and their respective getters.
+
+**Thoughts:** Made some progress. Since it was a weekend, spend most time with family. Lots to learn, lots to schedule and plan. Need to clean the code further. Have another usecase of trying Instagram APIs. Will try to integrate here itself as a process of learning.
+
+**Link to work:** https://github.com/benimadhab11/infoweeb.git
