@@ -32,3 +32,12 @@
 **Thoughts:** Made some progress. Since it was a weekend, spend most time with family. Lots to learn, lots to schedule and plan. Need to clean the code further. Have another usecase of trying Instagram APIs. Will try to integrate here itself as a process of learning.
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
+
+
+### Day 4: September 1, 2020
+
+**Today's Progress**: Added db configuration for Infoweeb
+
+**Thoughts:** Took some time integrating with mysql db, because of inconsistent dependency versions, and some configurations for db. But finally integrated. Need to make a lot of enhancements. Created a dummy API for now to add users to the Users Table. But this will modified later.
+
+**Link to work:** https://github.com/benimadhab11/infoweeb.git
