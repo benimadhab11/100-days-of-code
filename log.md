@@ -25,7 +25,7 @@
 **Link to work:** NONE
 
 
-### Day 3: August 29, 2020
+### Day 4: August 29, 2020
 
 **Today's Progress**: Continued with Infoweeb. Figured out how to get field values and their respective getters.
 
@@ -34,7 +34,7 @@
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
 
 
-### Day 4: September 1, 2020
+### Day 5: September 1, 2020
 
 **Today's Progress**: Added db configuration for Infoweeb
 
