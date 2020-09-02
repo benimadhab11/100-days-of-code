@@ -8,6 +8,7 @@
 
 **Link to work:** Not Yet Created
 
+
 ### Day 2: August 28, 2020
 
 **Today's Progress**: Made little enhancements to the api, trying to make it similar to the Public API. Created the GitHub Repo. 
@@ -15,6 +16,7 @@
 **Thoughts:** Let's see how it goes. Need more improvements. Need to decide on the front-end part. Also if persistence is required for the use-case has to be evaluated. Need to explore other technologies with this, for learning purposes.
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
+
 
 ### Day 3: August 29, 2020
 
@@ -39,5 +41,14 @@
 **Today's Progress**: Added db configuration for Infoweeb
 
 **Thoughts:** Took some time integrating with mysql db, because of inconsistent dependency versions, and some configurations for db. But finally integrated. Need to make a lot of enhancements. Created a dummy API for now to add users to the Users Table. But this will modified later.
+
+**Link to work:** https://github.com/benimadhab11/infoweeb.git
+
+
+### Day 6: September 2, 2020
+
+**Today's Progress**: Working on Task Entity
+
+**Thoughts:** Basically created an entity for task, which has fields like task name, task details, category, minutes spent, start and end time. The goal is basically to track a task of an user each day. Having basic fields as of now. Created the basic controller to post and get tasks. Need to setup some autofilling during null values
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
