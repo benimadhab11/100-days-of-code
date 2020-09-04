@@ -52,3 +52,12 @@
 **Thoughts:** Basically created an entity for task, which has fields like task name, task details, category, minutes spent, start and end time. The goal is basically to track a task of an user each day. Having basic fields as of now. Created the basic controller to post and get tasks. Need to setup some autofilling during null values
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
+
+
+### Day 7: September 4, 2020
+
+**Today's Progress**: Continuing on Task Entity
+
+**Thoughts:** Passing only time spent for now. With the assumption that, the task was completed at that time approximately, making starttime as current time - time spent and endtime as current time.
+
+**Link to work:** https://github.com/benimadhab11/infoweeb.git
