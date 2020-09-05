@@ -61,3 +61,12 @@
 **Thoughts:** Passing only time spent for now. With the assumption that, the task was completed at that time approximately, making starttime as current time - time spent and endtime as current time.
 
 **Link to work:** https://github.com/benimadhab11/infoweeb.git
+
+
+### Day 8: September 5, 2020
+
+**Today's Progress**: Stopping Infoweeb, Building a CMS
+
+**Thoughts:** I have stopped working on infoweeb personal project. I decided to build a mini cms platform with basic functionalities. This for a personal use case. Built the basic project structure and db design. Need to create the git repo still. Will be doing that tomorrow
+
+**Link to work:** TODO
