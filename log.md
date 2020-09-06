@@ -70,3 +70,11 @@
 **Thoughts:** I have stopped working on infoweeb personal project. I decided to build a mini cms platform with basic functionalities. This for a personal use case. Built the basic project structure and db design. Need to create the git repo still. Will be doing that tomorrow
 
 **Link to work:** TODO
+
+### Day 9: September 6, 2020
+
+**Today's Progress**: Setting up the backend in heroku
+
+**Thoughts:** So the basic entities are created with some authorisation using jwt. The security part needs a little more in depth understand from code. Was able to setup postgre sql in heroku and linked it to the backend using environment variables. Need to start with the front end part.
+
+**Link to work:** https://github.com/benimadhab11/cms.git
