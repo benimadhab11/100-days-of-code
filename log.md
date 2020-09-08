@@ -15,7 +15,7 @@
 
 **Thoughts:** Let's see how it goes. Need more improvements. Need to decide on the front-end part. Also if persistence is required for the use-case has to be evaluated. Need to explore other technologies with this, for learning purposes.
 
-**Link to work:** https://github.com/benimadhab11/infoweeb.git
+**Link to work:** https://github.com/code-bmk/infoweeb.git
 
 
 ### Day 3: August 29, 2020
@@ -33,7 +33,7 @@
 
 **Thoughts:** Made some progress. Since it was a weekend, spend most time with family. Lots to learn, lots to schedule and plan. Need to clean the code further. Have another usecase of trying Instagram APIs. Will try to integrate here itself as a process of learning.
 
-**Link to work:** https://github.com/benimadhab11/infoweeb.git
+**Link to work:** https://github.com/code-bmk/infoweeb.git
 
 
 ### Day 5: September 1, 2020
@@ -42,7 +42,7 @@
 
 **Thoughts:** Took some time integrating with mysql db, because of inconsistent dependency versions, and some configurations for db. But finally integrated. Need to make a lot of enhancements. Created a dummy API for now to add users to the Users Table. But this will modified later.
 
-**Link to work:** https://github.com/benimadhab11/infoweeb.git
+**Link to work:** https://github.com/code-bmk/infoweeb.git
 
 
 ### Day 6: September 2, 2020
@@ -51,7 +51,7 @@
 
 **Thoughts:** Basically created an entity for task, which has fields like task name, task details, category, minutes spent, start and end time. The goal is basically to track a task of an user each day. Having basic fields as of now. Created the basic controller to post and get tasks. Need to setup some autofilling during null values
 
-**Link to work:** https://github.com/benimadhab11/infoweeb.git
+**Link to work:** https://github.com/code-bmk/infoweeb.git
 
 
 ### Day 7: September 4, 2020
@@ -60,7 +60,7 @@
 
 **Thoughts:** Passing only time spent for now. With the assumption that, the task was completed at that time approximately, making starttime as current time - time spent and endtime as current time.
 
-**Link to work:** https://github.com/benimadhab11/infoweeb.git
+**Link to work:** https://github.com/code-bmk/infoweeb.git
 
 
 ### Day 8: September 5, 2020
@@ -77,4 +77,21 @@
 
 **Thoughts:** So the basic entities are created with some authorisation using jwt. The security part needs a little more in depth understand from code. Was able to setup postgre sql in heroku and linked it to the backend using environment variables. Need to start with the front end part.
 
-**Link to work:** https://github.com/benimadhab11/cms.git
+**Link to work:** https://github.com/code-bmk/cms.git
+
+### Day 10: September 7, 2020
+
+**Today's Progress**: Starting the UI
+
+**Thoughts:** Started with the UI. Using react for learning. Made the basic login and authorisation setup for routes.
+
+**Link to work:** https://github.com/code-bmk/cms-frontend.git
+
+
+### Day 11: September 8, 2020
+
+**Today's Progress**: Draft JS for UI
+
+**Thoughts:** Tried incorporating draft-js. Needs lot of work. Basic setup done. Fixing cors related issues.
+
+**Link to work:** https://github.com/code-bmk/cms-frontend.git
