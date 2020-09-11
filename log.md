@@ -95,3 +95,12 @@
 **Thoughts:** Tried incorporating draft-js. Needs lot of work. Basic setup done. Fixing cors related issues.
 
 **Link to work:** https://github.com/code-bmk/cms-frontend.git
+
+
+### Day 12: September 12, 2020
+
+**Today's Progress**: Draft JS for UI (Continued ...)
+
+**Thoughts:** Was not able to continue on 100 days of code , for the last 3 days, resuming back. Continuing work on UI.
+
+**Link to work:** https://github.com/code-bmk/cms-frontend.git
