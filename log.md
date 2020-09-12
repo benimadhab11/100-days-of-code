@@ -103,4 +103,13 @@
 
 **Thoughts:** Was not able to continue on 100 days of code , for the last 3 days, resuming back. Continuing work on UI.
 
+**Link to work:** https://github.com/code-bmk/cms-frontend.
+
+
+### Day 13: September 13, 2020
+
+**Today's Progress**: CMS Work (Continued ...)
+
+**Thoughts:** Was able to setup db finally, when I had deleted them. LONGTEXT is not supported for postgresql , which took so much time to debug, in creation of tables. Using TEXT for now. Need to build a router based mechanism to display blogs
+
 **Link to work:** https://github.com/code-bmk/cms-frontend.git
