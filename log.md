@@ -113,3 +113,12 @@
 **Thoughts:** Was able to setup db finally, when I had deleted them. LONGTEXT is not supported for postgresql , which took so much time to debug, in creation of tables. Using TEXT for now. Need to build a router based mechanism to display blogs
 
 **Link to work:** https://github.com/code-bmk/cms-frontend.git
+
+
+### Day 14: September 14, 2020
+
+**Today's Progress**: CMS Work (Continued ...)
+
+**Thoughts:** Rendering the post items using bulma css. Facing some issues when showing detail view of posts. Fixing that
+
+**Link to work:** https://github.com/code-bmk/cms-frontend.git
