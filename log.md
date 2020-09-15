@@ -121,4 +121,13 @@
 
 **Thoughts:** Rendering the post items using bulma css. Facing some issues when showing detail view of posts. Fixing that
 
+**Link to work:** https://github.com/code-bmk/cms-frontend.
+
+
+### Day 14: September 15, 2020
+
+**Today's Progress**: CMS Work (Continued ...)
+
+**Thoughts:** Showing indetail view using redux, facing lot of issues. Need further understanding of redux concepts. For now switching back to normal Api calls without redux
+
 **Link to work:** https://github.com/code-bmk/cms-frontend.git
