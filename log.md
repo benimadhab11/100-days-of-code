@@ -131,3 +131,5 @@
 **Thoughts:** Showing indetail view using redux, facing lot of issues. Need further understanding of redux concepts. For now switching back to normal Api calls without redux
 
 **Link to work:** https://github.com/code-bmk/cms-frontend.git
+
+# Will Keep Track of this in Private repo. 
